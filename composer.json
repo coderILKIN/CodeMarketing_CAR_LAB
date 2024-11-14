@@ -1,0 +1,16 @@
+{
+    "name": "ilkin/car_lab-procekt",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "coderILKIN",
+            "email": "tu758403c@code.edu.az"
+        }
+    ],
+    "require": {}
+}
